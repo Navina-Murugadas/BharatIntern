@@ -10,7 +10,7 @@ This GitHub repository contains comprehensive documentation, code, and various r
 ### Project 1: STOCK PREDICTION USING LSTM
 
 
-### Project 2: TITANIC (SURVIVAL) CLASSIFICAATION
+### Project 2: TITANIC (SURVIVAL) CLASSIFICATION
 
 
 ### Project 3: HANDWRITTEN DIGIT RECOGNITION USING MNIST DATASET (NUMBER RECOGNITION)
