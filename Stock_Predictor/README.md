@@ -21,7 +21,7 @@ LSTM - Long-Short Term Memory
 
 # Features
 ## Data collection: 
-Retrieve historical stock price data using APIs or web scraping techniques.
+Retrieve historical stock price data.
 ## Data preprocessing: 
 Clean and transform raw data for machine learning.
 ## Machine learning model: 
