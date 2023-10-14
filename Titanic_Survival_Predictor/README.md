@@ -22,17 +22,17 @@ Logistic Regression
 1. A prior knowledge of Python programming language along with its libraries for data science such as Numpy, Pandas, Matplotlib, Seaborn, SkLearn is needed.
 2. Installation of required libraries
 
-# Methodology
+# Methodology:
 The project uses the following steps to accomplish the classification task:
-## Data Preprocessing: 
+## Data Preprocessing
 We clean and preprocess the dataset, handling missing values, encoding categorical variables, and scaling features as needed.
-## Exploratory Data Analysis (EDA): 
+## Exploratory Data Analysis (EDA)
 We perform an in-depth EDA to gain insights into the data and understand the relationships between various features and survival.
-## Model Selection: 
+## Model Selection
 We implement a logistic regression model, a classic choice for binary classification, and evaluate its performance.
-## Model Evaluation: 
+## Model Evaluation
 We assess the model's performance using relevant metric - Accuracy.
-## Deployment: 
+## Deployment
 We provide a sample implementation of the model that can be used to predict the survival of new passengers using Streamlit.
 
 # Output:
