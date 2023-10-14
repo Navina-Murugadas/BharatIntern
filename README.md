@@ -8,13 +8,13 @@ Over the course of my internship, I've had the privilege of contributing to seve
 This GitHub repository contains comprehensive documentation, code, and various resources related to these projects. Here's a brief overview of the primary components:
 
 ### Project 1: STOCK PREDICTION USING LSTM
-
+https://github.com/Navina-Murugadas/BharatIntern/tree/main/Stock_Predictor
 
 ### Project 2: TITANIC (SURVIVAL) CLASSIFICATION
-
+https://github.com/Navina-Murugadas/BharatIntern/tree/main/Titanic_Survival_Predictor
 
 ### Project 3: HANDWRITTEN DIGIT RECOGNITION USING MNIST DATASET (NUMBER RECOGNITION)
-
+https://github.com/Navina-Murugadas/BharatIntern/tree/main/HandWritten_Number_Recognition
 
 ## Achievements
 During my internship at Bharat Intern, I have accomplished several notable milestones, including:
