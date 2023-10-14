@@ -1,6 +1,6 @@
 #  TESLA STOCK PREDICTION
 Predicting stock prices is a challenging and crucial task for investors and traders. This project focuses on using historical price and trading data to build predictive models that can help forecast Tesla's stock prices. By providing a well-documented and user-friendly codebase, we aim to empower users with the tools and knowledge needed to analyze and predict Tesla's stock performance.
-This GitHub repository contains a Python-based project for predicting Tesla, Inc. (TSLA) stock prices using machine learning and data analysis techniques. The project is designed to provide users with a tool to make informed investment decisions or gain insights into the stock's future performance
+This GitHub repository contains a Python-based project for predicting Tesla, Inc.(TSLA) stock prices using machine learning and data analysis techniques. The project is designed to provide users with a tool to make informed investment decisions or gain insights into the stock's future performance
 
 # Technique used:
 LSTM - Long-Short Term Memory
