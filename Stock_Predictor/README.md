@@ -33,5 +33,6 @@ Use trained models to make future stock price forecasts.
 
 # Output:
 ![Stock1](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/88ee8ac9-46ab-45e9-95ca-1b2d7669b498)
+
 ![Stock2](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/20438268-c5a5-40a8-b0be-f7f1d015e868)
 
