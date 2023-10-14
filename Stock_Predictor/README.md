@@ -19,16 +19,16 @@ LSTM - Long-Short Term Memory
 1. A prior knowledge of Python programming language along with its libraries for data science such as Numpy, Pandas, Matplotlib, SkLearn, Keras is needed.
 2. Installation of required libraries
 
-# Features
-## Data collection: 
+# Features:
+## Data collection 
 Retrieve historical stock price data.
-## Data preprocessing: 
+## Data preprocessing
 Clean and transform raw data for machine learning.
-## Machine learning model: 
+## Machine learning model
 Implement and evaluate the apt model.
-## Visualization: 
+## Visualization
 Generate interactive charts and graphs to visualize stock price trends and predictions.
-## Predictions: 
+## Predictions
 Use trained models to make future stock price forecasts.
 
 # Output:
