@@ -36,7 +36,6 @@ We assess the model's performance using relevant metric - Accuracy.
 We provide a sample implementation of the model that can be used to predict the survival of new passengers using Streamlit.
 
 # Output:
-![Titanic1](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/ec2c0e4b-1a9b-48c4-89c8-72d5072d43c9)
+![Titanic1](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/63ac61c1-30e7-4ed1-875d-473500c763fc)
 
-![Titanic2](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/1d6d2a32-85cb-4451-92df-adc93c42e676)
-
+![Titanic2](https://github.com/Navina-Murugadas/BharatIntern/assets/72821323/b22a3d34-2fb0-4f74-b632-fb7a374c6f28)
